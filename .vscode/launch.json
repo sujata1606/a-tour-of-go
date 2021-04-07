@@ -11,6 +11,6 @@
             "mode": "debug",
             "program": "${file}"
         }
-
+        
     ]
 }
